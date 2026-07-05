@@ -9,3 +9,6 @@ code/dataset/
 *.log
 *.out
 *.synctex.gz
+
+# local-only staging for GitHub Release assets
+release-assets/

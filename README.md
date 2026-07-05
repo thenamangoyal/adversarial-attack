@@ -31,7 +31,8 @@ Report.pdf                  original course report
 paper/
   main/                     LaTeX source of the AAAI 2021 main paper submission
   supplementary/            LaTeX source of the supplementary material
-  arxiv/                    merged arXiv source (main + appendix, no copyright slug) + compiled PDF
+  arxiv/                    merged arXiv source (main + appendix, no copyright slug),
+                            compiled PDF, and arxiv-submission.tar.gz (the exact uploaded package)
 code/                       attack and evaluation code (TensorFlow 1.x + cleverhans, 2017)
 archive/                    the original AAAI 2021 submission zips, kept verbatim
 ```
