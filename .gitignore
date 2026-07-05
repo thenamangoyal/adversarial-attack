@@ -1,0 +1,11 @@
+# large release assets, fetched from GitHub Releases (see README)
+code/ckpts/
+code/dataset/
+
+# LaTeX build artifacts
+*.aux
+*.bbl.bak
+*.blg
+*.log
+*.out
+*.synctex.gz

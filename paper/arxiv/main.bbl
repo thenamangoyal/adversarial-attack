@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Chen et~al.(2017)Chen, Sharma, Zhang, Yi, and Hsieh}]{chen2017ead}
+Chen, P.-Y.; Sharma, Y.; Zhang, H.; Yi, J.; and Hsieh, C.-J. 2017.
+\newblock Ead: elastic-net attacks to deep neural networks via adversarial
+  examples.
+\newblock \emph{arXiv preprint arXiv:1709.04114} .
+
+\bibitem[{Dong et~al.(2018)Dong, Liao, Pang, Su, Zhu, Hu, and
+  Li}]{dong2018boosting}
+Dong, Y.; Liao, F.; Pang, T.; Su, H.; Zhu, J.; Hu, X.; and Li, J. 2018.
+\newblock Boosting adversarial attacks with momentum.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 9185--9193.
+
+\bibitem[{Goodfellow, Shlens, and Szegedy(2014)}]{goodfellow2014explaining}
+Goodfellow, I.~J.; Shlens, J.; and Szegedy, C. 2014.
+\newblock Explaining and harnessing adversarial examples.
+\newblock \emph{arXiv preprint arXiv:1412.6572} .
+
+\bibitem[{Gu and Rigazio(2014)}]{gu2014towards}
+Gu, S.; and Rigazio, L. 2014.
+\newblock Towards deep neural network architectures robust to adversarial
+  examples.
+\newblock \emph{arXiv preprint arXiv:1412.5068} .
+
+\bibitem[{Hu and Tan(2017)}]{hu2017generating}
+Hu, W.; and Tan, Y. 2017.
+\newblock Generating adversarial malware examples for black-box attacks based
+  on gan.
+\newblock \emph{arXiv preprint arXiv:1702.05983} .
+
+\bibitem[{Madry et~al.(2017)Madry, Makelov, Schmidt, Tsipras, and
+  Vladu}]{madry2017towards}
+Madry, A.; Makelov, A.; Schmidt, L.; Tsipras, D.; and Vladu, A. 2017.
+\newblock Towards deep learning models resistant to adversarial attacks.
+\newblock \emph{arXiv preprint arXiv:1706.06083} .
+
+\bibitem[{Miyato et~al.(2015)Miyato, Maeda, Koyama, Nakae, and
+  Ishii}]{miyato2015distributional}
+Miyato, T.; Maeda, S.-i.; Koyama, M.; Nakae, K.; and Ishii, S. 2015.
+\newblock Distributional smoothing with virtual adversarial training.
+\newblock \emph{arXiv preprint arXiv:1507.00677} .
+
+\bibitem[{Moosavi-Dezfooli, Fawzi, and Frossard(2016)}]{moosavi2016deepfool}
+Moosavi-Dezfooli, S.-M.; Fawzi, A.; and Frossard, P. 2016.
+\newblock Deepfool: a simple and accurate method to fool deep neural networks.
+\newblock In \emph{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, 2574--2582.
+
+\bibitem[{Papernot et~al.(2016)Papernot, Goodfellow, Sheatsley, Feinman, and
+  McDaniel}]{papernot2016cleverhans}
+Papernot, N.; Goodfellow, I.; Sheatsley, R.; Feinman, R.; and McDaniel, P.
+  2016.
+\newblock cleverhans v1.0.0: an adversarial machine learning library.
+\newblock \emph{arXiv preprint arXiv:1610.00768} .
+
+\bibitem[{Zheng, Chen, and Ren(2019)}]{zheng2019distributionally}
+Zheng, T.; Chen, C.; and Ren, K. 2019.
+\newblock Distributionally adversarial attack.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, 2253--2260.
+
+\end{thebibliography}
